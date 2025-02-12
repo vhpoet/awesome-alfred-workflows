@@ -72,6 +72,7 @@
 - [Things](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [Timing](https://github.com/skibitsky/alfred-timing) - Interact with the [Timing](https://timingapp.com/) app.
 - [Todoist](https://github.com/moranje/alfred-workflow-todoist) - Add tasks to Todoist.
+- [Text to Calendar](https://github.com/vhpoet/alfred-text-to-calendar) - Create calendar events from unstructured text using an LLM.
 
 ## Miscellaneous
 - [Emoji picker](https://github.com/devnoname120/alfred-emoji-picker) - Fast emoji input.
